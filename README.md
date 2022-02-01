@@ -5,10 +5,9 @@ Dibuat Guna Menyelesaikan Tugas Akhir KBT
 Traditional Marketplace Merupakan Marketplace Untuk Menjual Barang-Barang UMKM Serta Barang Dari Petani/Dari Tangan Pertama. Traditional Marketplace Digunakan Untuk Mempermudah Para UMKM Serta Barang Dari Petani/Dari Tangan Pertama Agar Mereka Tidak Perlu Kebingungan Atau Kesulitan Dalam Mencari Customer, Dan Juga Dapat Mempermudah Para Pelanggan Untuk Mencari Kebutuhan Pokok Mereka. Banyak Petani Atau Para Pedagang Tangan Pertama Yang Mempunyai Banyak Barang Dagangan Namun Bingung Untuk Menjualnya, Maka Dari Itu Kami Hadir Sebagai Solusi Dengan Website Traditional Marketplace.
 # Features
 - Themes & Plugin
-  - Themes : Ocean WP
+  - Themes : 
+  -Ocean WP https://oceanwp.org/
   - Plugin :
-  - 1. ddd
-  - 2. dd
 - Penggunaan Fitur
 # Installation
 # Configuration
