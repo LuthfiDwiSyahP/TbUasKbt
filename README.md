@@ -12,7 +12,7 @@ Traditional Marketplace Merupakan Marketplace Untuk Menjual Barang-Barang UMKM S
 # Installation
 Dalam Installasi Website Kami, Kami Memilih Dua Tools Yaitu Wordpress Dan SLL Sertificate. Dimana Wordpress Kami Gunakan Sebagai CMS Yang Berguna Dalam Mengatur Dan Mengedit Konten Yang Ada Dalam Website Kami Nantinya. Untuk SSL Sertificate Kami Gunakan Untuk Memberikan Pengamanan Pada Website Kami.
 # Configuration
-Untuk Configurasinya Sendiri Kami Menggunakan Apache Web Server Untuk Deploy Website Kami Dan Untuk Domain Yang Kami Buat Adalah <b>.my.id
+Untuk Configurasinya Sendiri Kami Menggunakan Apache Web Server Untuk Deploy Website Kami Dan Untuk Domain Yang Kami Buat Adalah <b>.my.id</b>
 # Copyright
 - Kewirausahaan Berbasis Teknologi
 - Nama Tim
