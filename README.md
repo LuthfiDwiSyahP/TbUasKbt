@@ -1,13 +1,13 @@
 # TbUasKbt
 Dibuat Guna Menyelesaikan Tugas Akhir KBT 
 
-- # Descriptions Programs
-- #Features
+# Descriptions Programs
+#Features
 - Themes & plugin
 - Penggunaan Fitur
-- #Installation
-- #Configuration
-- #Copyright
+#Installation
+#Configuration
+#Copyright
 - Kewirausahaan Berbasis Teknologi
 - Nama Tim
 1. Dignifo Nauval Muhammady 202010370311476
