@@ -7,7 +7,8 @@ Traditional Marketplace Merupakan Marketplace Untuk Menjual Barang-Barang UMKM S
 - Themes & Plugin
   - Themes : Ocean WP
   - Plugin :
-    -jhjhsf
+  - 1. ddd
+  - 2. dd
 - Penggunaan Fitur
 # Installation
 # Configuration
