@@ -6,8 +6,7 @@ Traditional Marketplace Merupakan Marketplace Untuk Menjual Barang-Barang UMKM S
 # Features
 - Themes & Plugin
   - Themes : Ocean WP https://oceanwp.org/
-  - Plugin :
-1. afaa
+  - Plugin : Elementor, Ocean Extra, WooCommerce, TI WooCommerce Wishlist, Click to Chat.
 - Penggunaan Fitur
 # Installation
 # Configuration
